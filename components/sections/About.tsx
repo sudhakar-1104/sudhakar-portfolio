@@ -36,7 +36,7 @@ export default function About() {
         <div className="about-text">
           <h3>
             Turning curiosity into
-            <span> meaningful technology.</span>
+            <span> meaningful technologies.</span>
           </h3>
 
           <p>
